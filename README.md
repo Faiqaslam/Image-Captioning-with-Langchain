@@ -1,8 +1,8 @@
-# Image-Caption-with-Langchain
+# Image-Captioning-with-Langchain
 
 # Input:
 <p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/Faiqaslam/Image-Captioning-with-Langchain/blob/main/image.png">
+  <img width="600" src="https://raw.githubusercontent.com/Faiqaslam/Image-Captioning-with-Langchain/main/image.png">
   </br>Image Input
 </p>
 
