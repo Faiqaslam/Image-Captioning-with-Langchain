@@ -2,7 +2,7 @@
 
 # Input:
 <p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/Faiqaslam/Image-Caption-with-Langchain/main/image.png">
+  <img width="600" src="https://raw.githubusercontent.com/Faiqaslam/Image-Captioning-with-Langchain/blob/main/image.png">
   </br>Image Input
 </p>
 
